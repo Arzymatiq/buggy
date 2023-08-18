@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Jack",
+      "position": "Front-Dev",
+      "exp": "3",
+      "favorites": false,
+      "id": 1
+    },
+    {
+      "name": "Arzy",
+      "position": "Back-Dev",
+      "exp": "3",
+      "expiriens": "78",
+      "favorites": true,
+      "id": 2
+    },
+    {
+      "name": "Arsty",
+      "position": "Ui-Ux",
+      "exp": "3",
+      "expiriens": "321",
+      "favorites": false,
+      "id": 3
+    },
+    {
+      "name": "Arsty",
+      "position": "csacsa",
+      "exp": "3",
+      "expiriens": "321",
+      "favorites": true,
+      "id": 4
+    },
+    {
+      "name": "dsadsa",
+      "position": "dsadsa",
+      "expiriens": "321",
+      "favorite": false,
+      "id": 5,
+      "favorites": true
+    }
+  ],
+  "favorites": [
+    {
+      "id": "favorite-2",
+      "users": {
+        "name": "Arzy",
+        "position": "Back-Dev",
+        "exp": "3",
+        "expiriens": "78",
+        "favorites": true,
+        "id": 2
+      }
+    },
+    {
+      "id": "favorite-4",
+      "users": {
+        "name": "Arsty",
+        "position": "csacsa",
+        "exp": "3",
+        "expiriens": "321",
+        "favorites": true,
+        "id": 4
+      }
+    },
+    {
+      "users": {
+        "name": "dsadsa",
+        "position": "dsadsa",
+        "expiriens": "321",
+        "favorite": false,
+        "id": 5,
+        "favorites": true
+      },
+      "id": "favorite-5"
+    }
+  ]
+}
